@@ -45,7 +45,6 @@ div {
 	grid-template-columns:repeat(4,1fr);
 	gap:24px;
 	margin:48px auto;
-	width:95%;
 	max-width:inherit;
 	padding:24px;
 	box-sizing:border-box;
